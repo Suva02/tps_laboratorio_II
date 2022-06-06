@@ -1,0 +1,12 @@
+C:\Users\Neri y Valen\Desktop\Mis proyectos C#\tps_laboratorio_II\Suetta.Valentin.2C.TPFinal\Suetta.Valentin.2C.TPFinal\bin\Debug\net5.0\Suetta.Valentin.2C.TPFinal.deps.json
+C:\Users\Neri y Valen\Desktop\Mis proyectos C#\tps_laboratorio_II\Suetta.Valentin.2C.TPFinal\Suetta.Valentin.2C.TPFinal\bin\Debug\net5.0\Suetta.Valentin.2C.TPFinal.dll
+C:\Users\Neri y Valen\Desktop\Mis proyectos C#\tps_laboratorio_II\Suetta.Valentin.2C.TPFinal\Suetta.Valentin.2C.TPFinal\bin\Debug\net5.0\ref\Suetta.Valentin.2C.TPFinal.dll
+C:\Users\Neri y Valen\Desktop\Mis proyectos C#\tps_laboratorio_II\Suetta.Valentin.2C.TPFinal\Suetta.Valentin.2C.TPFinal\bin\Debug\net5.0\Suetta.Valentin.2C.TPFinal.pdb
+C:\Users\Neri y Valen\Desktop\Mis proyectos C#\tps_laboratorio_II\Suetta.Valentin.2C.TPFinal\Suetta.Valentin.2C.TPFinal\obj\Debug\net5.0\Suetta.Valentin.2C.TPFinal.csproj.AssemblyReference.cache
+C:\Users\Neri y Valen\Desktop\Mis proyectos C#\tps_laboratorio_II\Suetta.Valentin.2C.TPFinal\Suetta.Valentin.2C.TPFinal\obj\Debug\net5.0\Suetta.Valentin.2C.TPFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neri y Valen\Desktop\Mis proyectos C#\tps_laboratorio_II\Suetta.Valentin.2C.TPFinal\Suetta.Valentin.2C.TPFinal\obj\Debug\net5.0\Suetta.Valentin.2C.TPFinal.AssemblyInfoInputs.cache
+C:\Users\Neri y Valen\Desktop\Mis proyectos C#\tps_laboratorio_II\Suetta.Valentin.2C.TPFinal\Suetta.Valentin.2C.TPFinal\obj\Debug\net5.0\Suetta.Valentin.2C.TPFinal.AssemblyInfo.cs
+C:\Users\Neri y Valen\Desktop\Mis proyectos C#\tps_laboratorio_II\Suetta.Valentin.2C.TPFinal\Suetta.Valentin.2C.TPFinal\obj\Debug\net5.0\Suetta.Valentin.2C.TPFinal.csproj.CoreCompileInputs.cache
+C:\Users\Neri y Valen\Desktop\Mis proyectos C#\tps_laboratorio_II\Suetta.Valentin.2C.TPFinal\Suetta.Valentin.2C.TPFinal\obj\Debug\net5.0\Suetta.Valentin.2C.TPFinal.dll
+C:\Users\Neri y Valen\Desktop\Mis proyectos C#\tps_laboratorio_II\Suetta.Valentin.2C.TPFinal\Suetta.Valentin.2C.TPFinal\obj\Debug\net5.0\ref\Suetta.Valentin.2C.TPFinal.dll
+C:\Users\Neri y Valen\Desktop\Mis proyectos C#\tps_laboratorio_II\Suetta.Valentin.2C.TPFinal\Suetta.Valentin.2C.TPFinal\obj\Debug\net5.0\Suetta.Valentin.2C.TPFinal.pdb
